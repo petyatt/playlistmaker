@@ -53,13 +53,13 @@ dependencies {
     //-----------------------------------------------------------
 
     //------------------------Фрагмент---------------------------
-    implementation "androidx.fragment:fragment:<1.6.2>"
-    implementation "androidx.fragment:fragment-ktx:<1.6.2>"
+    implementation "androidx.fragment:fragment:1.6.2"
+    implementation "androidx.fragment:fragment-ktx:1.6.2"
     //-----------------------------------------------------------
 
     //------------------------Активити---------------------------
-    implementation "androidx.activity:activity:<1.8.0>"
-    implementation "androidx.activity:activity-ktx:<1.8.0>"
+    implementation "androidx.activity:activity:1.8.0"
+    implementation "androidx.activity:activity-ktx:1.8.0"
     //-----------------------------------------------------------
 
     implementation "androidx.lifecycle:lifecycle-livedata-ktx:2.7.0"
